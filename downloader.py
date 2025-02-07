@@ -47,4 +47,3 @@ for i in range(segsToDownload):
         segSize = (len(req.content) / 1000) / 1024
 
         print(f'Downloaded {i}th Segment, Size: {segSize:.2f} MB!')
-        segment.close()
