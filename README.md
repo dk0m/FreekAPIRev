@@ -1,6 +1,6 @@
-# ReversingStreamingServices
+# FreekAPIRev
 
-Understanding How Piracy Streaming Services Work Under The Hood.
+Reversing Freek's Streaming Service API, To understand better how streaming services operate.
 
 ## Introduction
 
