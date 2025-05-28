@@ -1,4 +1,4 @@
-# FreekAPIRev
+# FreekReversedAPI
 
 Reversing Freek's Streaming Service API, To understand better how streaming services operate.
 
